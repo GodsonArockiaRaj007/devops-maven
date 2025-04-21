@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'devops-maven'
+  name: 'practice'
 
 steps:
 - task: Maven@3
